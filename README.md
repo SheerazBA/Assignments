@@ -1,4 +1,6 @@
     int number;
+    
+    number=1 ;
 
     printf("Enter an integer: ");
     scanf("%d", &number);
