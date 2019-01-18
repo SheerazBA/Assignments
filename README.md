@@ -1,6 +1,3 @@
-#include <stdio.h>
-int main()
-{
     int number;
 
     printf("Enter an integer: ");
@@ -13,4 +10,3 @@ int main()
         printf("%d is odd.", number);
 
     return 0;
-}
